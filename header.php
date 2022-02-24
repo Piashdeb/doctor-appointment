@@ -27,6 +27,7 @@
 				<li><a href="doctorinfo.php">Medical Doctors</a></li>
 				<li><a href="about.php">About Us</a></li>
 				<li><a href="contactus.php">Contact Us</a></li>
+				<li><a href="https://surokkha.gov.bd/">Covid-19 Vaccine Regrestration</a></li>
 				<li><a href="signin.php">User Login</a></li>
 				
 			</ul>
